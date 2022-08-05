@@ -1,3 +1,1 @@
-## Welcome to GitHub Pages
-
-hello world
+# Click: [xuaikun.github.io](https://xuaikun.github.io/)
